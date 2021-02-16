@@ -145,3 +145,19 @@
   top:1320px;
   right:270px;
 }
+
+.last-container{
+  text-align: center;
+  margin-top: 50px;
+  padding-top: 50px;
+  width: auto;
+  height: 200px;
+  background-color: #ffe3d8;
+}
+
+.last-tags{
+    background: white;
+    padding:15px;
+    border-radius: 50%;
+    margin: 10px;
+}
